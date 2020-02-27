@@ -1,0 +1,20 @@
+
+\squid:S1155’">Use isEmpty() to check whether the collection is empty or not.(å½8ÛÂªù†.
+qsquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïº´›8¹¯Ëü†.
+psquid:S3776c"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ù«şÇ8ã§©ù†.
+|squid:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ÆÏ—ÿÿÿÿÿ8ã§©ù†.
+bsquid:S1155•">Use isEmpty() to check whether the collection is empty or not.(¡²‰Îúÿÿÿÿ8ÛÂªù†.
+|squid:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ÒÔ²üÿÿÿÿ8ã§©ù†.
+osquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(àŸ˜ıÿÿÿÿ8¹¯Ëü†.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’£ö‹8ã§©ù†.
+qsquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ş…ø8¡ÅÍü†.
+asquid:S1155y">Use isEmpty() to check whether the collection is empty or not.(¡²‰Îúÿÿÿÿ8ÛÂªù†.
+}squid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(–º®üÿÿÿÿ8ã§©ù†.
+squid:S1319*"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¹èÄw8ã§©ù†.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÂ…¢ùÿÿÿÿ8ã§©ù†.
+xsquid:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(ä¿Ûù8¡ÅÍü†.
+wsquid:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ìˆ—98ã§©ù†.
+xsquid:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿£¾½8ã§©ù†.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äåŞüÿÿÿÿ8ã§©ù†.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âº“î8ã§©ù†.
+[squid:S1155v">Use isEmpty() to check whether the collection is empty or not.(å½8ÛÂªù†.
